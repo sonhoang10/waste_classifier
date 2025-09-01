@@ -47,6 +47,7 @@
 ```bash
 git clone https://github.com/your-username/waste-classifier.git
 cd waste-classifier
+
 2️⃣ Cài đặt thư viện
 pip install -r requirements.txt
 
