@@ -43,7 +43,7 @@
 
 ## ▶️ Cách chạy  
 
-### 1️⃣ Clone repo  
+1️⃣ Clone repo  
 ```bash
 git clone https://github.com/your-username/waste-classifier.git
 cd waste-classifier
