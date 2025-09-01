@@ -42,23 +42,22 @@
 ---
 
 ### ▶️ Cách chạy  
-
-## 1️⃣ Clone repo  
 ```bash
+1️⃣ Clone repo  
 git clone https://github.com/your-username/waste-classifier.git
 cd waste-classifier
 
-## 2️⃣ Cài đặt thư viện
+2️⃣ Cài đặt thư viện
 pip install -r requirements.txt
 
-## 3️⃣ (Tuỳ chọn) Huấn luyện mô hình lại (Đề xuất sử dụng GPU hoặc gg colab pro để train)
+3️⃣ (Tuỳ chọn) Huấn luyện mô hình lại (Đề xuất sử dụng GPU hoặc gg colab pro để train)
 python train_model.py
 
-## 4️⃣ Chạy ứng dụng Gradio
+4️⃣ Chạy ứng dụng Gradio
 python app.py
 
-## 5️⃣ Mở trình duyệt tại:
-
+5️⃣ Mở trình duyệt tại:
+```
 👉 http://127.0.0.1:7860/
 
 📊 Kết quả mô hình
