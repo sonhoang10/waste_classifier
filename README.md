@@ -1,10 +1,9 @@
-# ♻️ Hệ thống phân loại rác thông minh  
+# ♻️ AI phân loại rác thông minh (Không sử dụng DeepLearning)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/stable/)  
 [![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)](https://opencv.org/)  
 [![Gradio](https://img.shields.io/badge/Gradio-Web%20UI-red)](https://gradio.app/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
 Ứng dụng AI sử dụng **HOG (Histogram of Oriented Gradients)** và **SVM (Support Vector Machine)** để **phân loại rác** thành các nhóm khác nhau (**Vô cơ, Hữu cơ, Tái chế**). Sau khi nhận diện loại rác, hệ thống còn đưa ra **hướng dẫn xử lý** phù hợp để giảm thiểu ô nhiễm môi trường.  
 
