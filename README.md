@@ -59,22 +59,22 @@ python app.py
 5️⃣ Mở trình duyệt tại:
 👉 http://127.0.0.1:7860/
 ```
-📊 Kết quả mô hình
 
-Mô hình sử dụng SVM (linear kernel)
+### 📊 Kết quả mô hình
 
-Độ chính xác trung bình đạt: ~90% (tuỳ dataset)
+- Mô hình sử dụng SVM (linear kernel)
 
-Ví dụ kết quả dự đoán trên Gradio:
+- Độ chính xác trung bình đạt: ~90% (tuỳ dataset)
 
-Ảnh đầu vào	Kết quả dự đoán	Nhóm rác	Hướng dẫn xử lý
-🥩 thịt	meat	Organic 🌿	Bỏ vào thùng rác hữu cơ
-📦 hộp giấy	cardboard	Recyclable ♻️	Làm sạch, ép phẳng và bỏ vào thùng tái chế
-💡 bóng đèn	light_bulb	Inorganic 🗑️	Mang đến điểm thu gom rác thải nguy hại
-💡 Ứng dụng thực tế
+## Ví dụ kết quả dự đoán trên Gradio:
 
+# Ảnh đầu vào	Kết quả dự đoán	Nhóm rác	Hướng dẫn xử lý
+- 🥩 thịt	meat	Organic 🌿	Bỏ vào thùng rác hữu cơ
+- 📦 hộp giấy	cardboard	Recyclable ♻️	Làm sạch, ép phẳng và bỏ vào thùng tái chế
+- 💡 bóng đèn	light_bulb	Inorganic 🗑️	Mang đến điểm thu gom rác thải nguy hại
+- 💡 Ứng dụng thực tế
+
+## Ứng dụng
 Giáo dục cộng đồng về phân loại rác đúng cách.
-
 Hỗ trợ trong hệ thống thùng rác thông minh.
-
 Tích hợp vào ứng dụng di động để người dùng dễ dàng sử dụng.
