@@ -1,0 +1,7 @@
+scikit-image 
+scikit-learn 
+joblib 
+opencv-python
+gradio
+numpy
+tqdm
