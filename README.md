@@ -68,8 +68,8 @@ python app.py
 
 ## Ví dụ kết quả dự đoán trên Gradio:
 
-# Ảnh đầu vào	Kết quả dự đoán	Nhóm rác	Hướng dẫn xử lý
-- 🥩 thịt	meat	Organic 🌿	Bỏ vào thùng rác hữu cơ
+Ảnh đầu vào	Kết quả dự đoán	Nhóm rác	Hướng dẫn xử lý
+       - 🥩 thịt	meat	Organic 🌿	Bỏ vào thùng rác hữu cơ
 - 📦 hộp giấy	cardboard	Recyclable ♻️	Làm sạch, ép phẳng và bỏ vào thùng tái chế
 - 💡 bóng đèn	light_bulb	Inorganic 🗑️	Mang đến điểm thu gom rác thải nguy hại
 - 💡 Ứng dụng thực tế
