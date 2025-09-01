@@ -31,12 +31,12 @@
 ---
 
 ## 📂 Cấu trúc dự án  
-├── train_model.py # Huấn luyện mô hình và lưu file waste_classifier.pkl
-├── app.py # Chạy giao diện Gradio với mô hình đã huấn luyện
-├── dataset/ # Dataset phân loại rác (chia thư mục con theo loại)
-├── waste_classifier.pkl # Mô hình đã huấn luyện sẵn
-├── requirements.txt # Thư viện cần thiết
-└── README.md # Giới thiệu dự án
+- train_model.py # Huấn luyện mô hình và lưu file waste_classifier.pkl
+- app.py # Chạy giao diện Gradio với mô hình đã huấn luyện
+- dataset/ # Dataset phân loại rác (chia thư mục con theo loại)
+- waste_classifier.pkl # Mô hình bạn đã huấn luyện
+- requirements.txt # Thư viện cần thiết
+- README.md # Giới thiệu dự án
 
 
 ---
@@ -50,7 +50,7 @@ cd waste-classifier
 2️⃣ Cài đặt thư viện
 pip install -r requirements.txt
 
-3️⃣ (Tuỳ chọn) Huấn luyện mô hình lại
+3️⃣ (Tuỳ chọn) Huấn luyện mô hình lại (Đề xuất sử dụng GPU hoặc gg colab pro để train)
 python train_model.py
 
 4️⃣ Chạy ứng dụng Gradio
