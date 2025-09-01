@@ -57,9 +57,8 @@ python train_model.py
 python app.py
 
 5️⃣ Mở trình duyệt tại:
-```
 👉 http://127.0.0.1:7860/
-
+```
 📊 Kết quả mô hình
 
 Mô hình sử dụng SVM (linear kernel)
